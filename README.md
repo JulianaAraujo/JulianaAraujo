@@ -1,7 +1,7 @@
 # Juliana Araujo
 
 Olá!
-Sou professora de informática para crianças e desenvolvedora FullStack.
+Sou professora de informática e desenvolvedora FullStack.
 
  
  <br/> :muscle: Buscando desafios
