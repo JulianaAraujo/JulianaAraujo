@@ -1,7 +1,7 @@
 # Juliana Araujo
 
 Olá!
-Sou professora de informática e desenvolvedora FullStack.
+Sou dev backend
 
  
  <br/> :muscle: Buscando desafios
